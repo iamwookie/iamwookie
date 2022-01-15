@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Semi-stack developer. I know a bit of everything but not a lot of anything.
+- Currently working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
