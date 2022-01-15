@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Wookie 👋
 
 <!--
 **iamwookie/iamwookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Semi-stack developer. I know a bit of everything but not a lot of anything.
-- Currently working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
+- 📚 Computer science student.
+- 👨‍💻 Semi-stack developer. I know a bit of most things but not a lot of anything.
+- 🔭 Currently working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
