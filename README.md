@@ -1,4 +1,4 @@
-### Hi there, I'm Wookie 👋
+### Hi there, I'm Wookie (A.K.A Bilal) 👋
 
 <!--
 **iamwookie/iamwookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
