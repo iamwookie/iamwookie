@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 📚 Computer science student.
-- 👨‍💻 Semi-stack developer. I know a bit of most things but not a lot of anything.
+- 👨‍💻 A full stack developer.
 - 🔭 Currently working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
