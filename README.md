@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Computer science student.
-- 👨‍💻 A full stack developer.
-- 🔭 Currently working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
+- 👨‍💻 Happen to be a full stack developer (crazy ik).
+- 🔭 Mostly working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
