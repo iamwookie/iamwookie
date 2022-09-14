@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Happen to be a full stack developer (crazy ik).
+- 👨‍💻 Happen to be a pretty decent programmer (crazy ik).
 - 🔭 Mostly working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
