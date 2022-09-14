@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 Happen to be a pretty decent programmer (crazy ik).
-- 🔭 Mostly working on [Nebula Roleplay](https://github.com/NebulaProjectRP).
+- 🔭 Mostly working on [Nebula Roleplay](https://nebularoleplay.com/) (a business I run).
