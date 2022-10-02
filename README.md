@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 Happen to be a pretty decent programmer (crazy ik).
-- 🔭 Mostly working on [Nebula Roleplay](https://nebularoleplay.com/) (a business I run).
+- 👨‍💻 I am programmer (crazy ik).
+- 🔭 Sometimes work on [Nebula Roleplay](https://nebularoleplay.com/) (a business I run).
