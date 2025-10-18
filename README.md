@@ -10,4 +10,4 @@ Languages:
 
 Frameworks & Tools:
 
-[![Frameworks & Tools](https://skillicons.dev/icons?i=nodejs,discordjs,expressjs,react,next,svelte,fastapi,tailwindcss)](https://skillicons.dev)
+[![Frameworks & Tools](https://skillicons.dev/icons?i=nodejs,expressjs,react,next,svelte,fastapi,tailwindcss)](https://skillicons.dev)
