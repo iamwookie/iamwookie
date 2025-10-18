@@ -6,7 +6,7 @@ Currently:
 
 Languages:
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,c)](https://skillicons.dev)
 
 Frameworks & Tools:
 
