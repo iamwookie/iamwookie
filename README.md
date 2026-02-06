@@ -2,7 +2,7 @@
 
 Currently:
 
-[![Currently](https://skillicons.dev/icons?i=cpp,kotlin,astro)](https://skillicons.dev)
+[![Currently](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 Languages:
 
