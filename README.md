@@ -1,5 +1,3 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamwookie&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 Currently:
 
 [![Currently](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
