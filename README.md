@@ -1,10 +1,10 @@
 Currently:
 
-[![Currently](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![Currently](https://skillicons.dev/icons?i=cs,dotnet,angular)](https://skillicons.dev)
 
 Languages:
 
-[![Languages](https://skillicons.dev/icons?i=python,ts,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,ts,c,kotlin)](https://skillicons.dev)
 
 Frameworks & Tools:
 
