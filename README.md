@@ -1,6 +1,6 @@
 Currently:
 
-[![Currently](https://skillicons.dev/icons?i=cs,dotnet,angular)](https://skillicons.dev)
+[![Currently](https://skillicons.dev/icons?i=cs,angular,astro)](https://skillicons.dev)
 
 Languages:
 
